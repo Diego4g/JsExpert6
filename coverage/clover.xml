@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1647719583728" clover="3.2.0">
-  <project timestamp="1647719583728" name="All files">
-    <metrics statements="57" coveredstatements="45" conditionals="20" coveredconditionals="20" methods="16" coveredmethods="10" elements="93" coveredelements="75" complexity="0" loc="57" ncloc="57" packages="2" files="6" classes="6"/>
+<coverage generated="1647719727950" clover="3.2.0">
+  <project timestamp="1647719727950" name="All files">
+    <metrics statements="57" coveredstatements="52" conditionals="20" coveredconditionals="20" methods="16" coveredmethods="13" elements="93" coveredelements="85" complexity="0" loc="57" ncloc="57" packages="2" files="6" classes="6"/>
     <package name="server">
-      <metrics statements="45" coveredstatements="38" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="6"/>
+      <metrics statements="45" coveredstatements="45" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="9"/>
       <file name="config.js" path="/home/programador/Documentos/js_expert/semanajsexpert-spotify-template/server/config.js">
         <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="0" coveredmethods="0"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
       </file>
       <file name="controller.js" path="/home/programador/Documentos/js_expert/semanajsexpert-spotify-template/server/controller.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
@@ -49,15 +49,15 @@
         <line num="78" count="2" type="stmt"/>
       </file>
       <file name="service.js" path="/home/programador/Documentos/js_expert/semanajsexpert-spotify-template/server/service.js">
-        <metrics statements="8" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
-        <line num="10" count="2" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="21" count="0" type="stmt"/>
-        <line num="24" count="0" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="28" count="0" type="stmt"/>
-        <line num="35" count="0" type="stmt"/>
-        <line num="37" count="0" type="stmt"/>
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
       </file>
       <file name="util.js" path="/home/programador/Documentos/js_expert/semanajsexpert-spotify-template/server/util.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
@@ -69,7 +69,7 @@
       <metrics statements="12" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="4"/>
       <file name="testUtil.js" path="/home/programador/Documentos/js_expert/semanajsexpert-spotify-template/tests/units/_util/testUtil.js">
         <metrics statements="12" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="4"/>
-        <line num="7" count="13" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
         <line num="9" count="0" type="stmt"/>
         <line num="10" count="0" type="stmt"/>
         <line num="13" count="0" type="stmt"/>
